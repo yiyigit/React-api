@@ -1,2 +1,2 @@
-# React-API
-1.how to call other API
+# React_notes
+1. how to call other API
